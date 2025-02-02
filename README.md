@@ -3,6 +3,7 @@
 ## 📅 About Me
 
 Hi! I'm **Shadab Firoz**, a B.Tech CSE student specializing in **Artificial Intelligence (AI)** and **Machine Learning (ML)**. I am passionate about creating innovative tech solutions, with a focus on AI, blockchain/Web3, Web development 
+
 Startup Enthusiastic.
 
 ## 📊 Skills & Expertise
